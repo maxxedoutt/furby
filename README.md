@@ -29,5 +29,5 @@ NOTE: Node 8 seems to work best for the bluetooth drivers (`brew install node@8`
 sudo /usr/libexec/ApplicationFirewall/socketfilterfw --add $(pwd)/node_modules/electron/dist/Electron.app
 ```
 
-# Thank you 
+# Thank you.
 Much of the code (fluffcon, fluffaction and some of the server patterns) come directly from https://github.com/Jeija/bluefluff
